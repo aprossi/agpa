@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Geophysical probing, LIDAR/SLAM and drone mapping. 
 
-You can use the [editor on GitHub](https://github.com/aprossi/agpa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The project aims at integrating training and data collection with geophysical in-situ and remote sensing methods with analogue field geology procedures
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+raining in basic geoscience as well as using specialised geophysical equipment allowed for an impressive scientific return for the relatively limited set of Apollo mission to the moon. Future exploration can count on much more advanced techniques and experiments, such as laser scanning: Basic geophysical data collection can be of great importance for contextualising geological information collected by human or robotic explorers as well as for capturing geological information hidden to regular geological reconnaissance, and provide long-term monitoring.
 
-### Markdown
+## AGPA Experiments
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### AGPA-D - Drone-based remote sensing mapping
 
-```markdown
-Syntax highlighted code block
+### AGPA-G - Geoelectrical probing of lava tubes from the surface
 
-# Header 1
-## Header 2
-### Header 3
+### AGPA-L - Laser scanning from inside lava tubes
 
-- Bulleted
-- List
+### AGPA-S - Passive seismic monitoring
 
-1. Numbered
-2. List
+## People
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aprossi/agpa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* [Angelo Pio Rossi](http://aprossi.eu/) - [Jacobs University Bremen](https://www.jacobs-university.de)
+* Vikram Unnihtan - [Jacobs University Bremen](https://www.jacobs-university.de)
+* Andreas Nuechter - [University of Würzburg](http://www.uni-wuerzburg.de)
+* Dorit Bormann  - [University of Würzburg](http://www.uni-wuerzburg.de)
+* Helge Lauterbach - [University of Würzburg](http://www.uni-wuerzburg.de)
+* Patrizio Torrese - [University of Pavia](http://www.unipv.eu)
+* Frank Sohl - [DLR](http://www.dlr.de) 
