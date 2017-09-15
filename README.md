@@ -23,3 +23,4 @@ raining in basic geoscience as well as using specialised geophysical equipment a
 * Helge Lauterbach - [University of Würzburg](http://www.uni-wuerzburg.de)
 * Patrizio Torrese - [University of Pavia](http://www.unipv.eu)
 * Frank Sohl - [DLR](http://www.dlr.de) 
+* Martin Knapeyer - [DLR](http://www.dlr.de) 
